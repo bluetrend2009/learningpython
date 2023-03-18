@@ -10,4 +10,4 @@ prov_fund = 4300
 # gross amount is basic + allowances - deductions
 gross = basic + da + hra - prof_tax - prov_fund
 # print the gross amount
-print(f"Ramesh's gross salary is: {gross}")
+print(f"=> Ramesh's gross salary is: {gross}")
