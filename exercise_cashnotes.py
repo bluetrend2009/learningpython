@@ -19,3 +19,5 @@ ten_notes = (amount % 50) // 10 # calculate number of 10 notes
 print("Number of 100 notes:", hundred_notes)
 print("Number of 50 notes:", fifty_notes)
 print("Number of 10 notes:", ten_notes)
+
+#hello, i think this is also a simple way to write this program
