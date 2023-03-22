@@ -1,12 +1,11 @@
-num = 1
+number = 100
 
 
-def change_the_number():
-    global num
-    num = 10
-    return num
+def subdivide():
+    global number
+    number = number / 2
+    print(number)
+    subdivide()
 
 
-print(change_the_number())
-
-print(num)
+subdivide()
